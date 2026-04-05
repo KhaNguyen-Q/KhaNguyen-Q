@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on: An LLM Career resume chatbot using Solace open source Agent Mesh.
+- 🔭 I’m currently working on: Portfolio webpage.
 - 🌱 I’m currently learning: Applied machine learning, Computer Systems Design, and Operating systems.
 - 👯 I’m looking to collaborate on: Embedded systems engineering, communication-networking tools, or interactive software projects.
 - 🤔 I’m looking for help with: Optimizing game performance and scalable software architecture.
