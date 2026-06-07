@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋 check out my Portfolio webpage https://khavietnguyen.vercel.app/ 
 
-- 🔭 I’m currently working on: Portfolio webpage.
-- 🌱 I’m currently learning: Applied machine learning, Computer Systems Design, and Operating systems.
+- 🔭 I’m currently working on: Mobile app development for NDR (software engineering intern)
+- 🌱 I’m currently learning: New venture creation, Advanced programming concepts with C++, IOS/Swift development.
 - 👯 I’m looking to collaborate on: Embedded systems engineering, communication-networking tools, or interactive software projects.
 - 🤔 I’m looking for help with: Optimizing game performance and scalable software architecture.
 - 💬 Ask me about: C#, Python, RTL Digital design, Unity development, or applying ML in software products.
