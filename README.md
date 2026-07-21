@@ -93,15 +93,6 @@ Interrupt-driven design · GPIO · Timers · ADC · PWM · UART · I²C · FSM c
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Kha's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaNguyen-Q&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaNguyen-Q&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 📫 Contact
