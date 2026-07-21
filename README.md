@@ -2,7 +2,7 @@
 
 <img src="docs/assets/banner.png" alt="Kha (Ben) Nguyen — Computer Engineering" width="100%" />
 
-# Hi, I'm Kha (Ben) Nguyen 👋
+# Hi, I'm Kha (Ben) Nguyen (check out my portfolio page: https://khavietnguyen.vercel.app/)
 
 ### Computer Engineering student @ University of Ottawa
 **Embedded Systems · Software Development · Applied AI**
